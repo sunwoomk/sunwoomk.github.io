@@ -38,8 +38,7 @@
 <br><br>
 
 # [대표 이미지]
-
-![그림](./img/그림.png)
+<img src="./image/대표이미지4.png" width="500">
 
 <br><br>
 
