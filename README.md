@@ -31,9 +31,8 @@
 # [관련 이미지 & 동영상]
 
 - 이미지  
-  <img src="./image/대표이미지4.png" height="500">
-- 동영상
-  [![](./img/그림.png)](https://www.youtube.com/watch?v=5xy4n73WOMM)
+  <img src="./image/관련이미지2.JPG" width="500">
+  <img src="./image/관련이미지3.JPG" width="500">
 
 <br><br>
 
