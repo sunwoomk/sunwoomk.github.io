@@ -33,7 +33,7 @@
 <br><br>
 
 # [대표 이미지]
-<img src="./image/대표이미지4.png" width="500">
+<img src="./image/대표이미지7.png" width="500">
 <img src="./image/대표이미지3.webp" width="500">
 
 <br><br>
