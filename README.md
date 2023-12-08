@@ -108,7 +108,7 @@ Unity 2D를 기반으로 하여 PC용 게임으로 제작, 에셋을 활용한 �
 |연번|종류|OBJ 이름|OBJ 영문명|사용처|오브젝트 이미지|
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |1|캐릭터|주인공|player|공통|<img src="./image/예시3.png" width="50">|
-|2|캐릭터|어머니|mother|스테이지1|<img src="./image/예시5.png" width="50">|
+|2|캐릭터|어머니|mother|스테이지1|<img src="./image/mother.png" width="50">|
 |3|캐릭터|상인|trader|스테이지9|<img src="./image/예시2.png" width="50">|
 |4|캐릭터|기사|knight|스테이지4|<img src="./image/예시4.png" width="50">|
 |5|캐릭터|여관주인|innkeeper|스테이지6|<img src="./image/예시1.png" width="50">|
